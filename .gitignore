@@ -1,0 +1,5 @@
+/node_modules
+/dist
+/.env
+/test
+src/config/thirteenx-69dbc-firebase-adminsdk-c44dh-10e6dfbf2f.json
